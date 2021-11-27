@@ -1,1 +1,2 @@
-# my_site
+# mysiteah
+·mysiteah.ddns.net
